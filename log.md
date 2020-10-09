@@ -19,3 +19,13 @@
 
 **Link to work:** [BMI Calculator App](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_2)
 
+
+### Day 3: October, 9th, 2020:
+
+
+**Today's Progress**: Today i made a mp3 player GUI app using tkinter written in python!
+
+**Thoughts:** it went pretty well!
+
+**Link to work:** [MP3 player](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_3)
+
