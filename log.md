@@ -29,3 +29,12 @@
 
 **Link to work:** [MP3 player](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_3)
 
+
+### Day 4: October, 10th, 2020:
+
+
+**Today's Progress**: Today i made a Password Generator GUI app using tkinter written in python!
+
+**Thoughts:** it went pretty well!
+
+**Link to work:** [MP3 player](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_4)
