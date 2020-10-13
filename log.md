@@ -38,3 +38,14 @@
 **Thoughts:** it went pretty well!
 
 **Link to work:** [MP3 player](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_4)
+
+
+
+### Day 5: October, 13th, 2020:
+
+
+**Today's Progress**: Today i made a Instagram Tool GUI app using tkinter written in python!
+
+**Thoughts:** it went pretty well!
+
+**Link to work:** [MP3 player](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_5)
