@@ -37,7 +37,7 @@
 
 **Thoughts:** it went pretty well!
 
-**Link to work:** [MP3 player](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_4)
+**Link to work:** [Password Gen](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_4)
 
 
 
@@ -48,4 +48,4 @@
 
 **Thoughts:** it went pretty well!
 
-**Link to work:** [MP3 player](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_5)
+**Link to work:** [Insta Tool](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_5)
