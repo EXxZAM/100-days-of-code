@@ -49,3 +49,13 @@
 **Thoughts:** it went pretty well!
 
 **Link to work:** [Insta Tool](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_5)
+
+
+### Day  6: October, 14th, 2020:
+
+
+**Today's Progress**: Today i made a Chat Bot GUI app using tkinter written in python!
+
+**Thoughts:** i have covid19 so i was feeling tired but i had to do this and now i'm enjoying my day!
+
+**Link to work:** [Chat Bot](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_6)
