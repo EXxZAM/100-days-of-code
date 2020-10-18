@@ -59,3 +59,13 @@
 **Thoughts:** i have covid19 so i was feeling tired but i had to do this and now i'm enjoying my day!
 
 **Link to work:** [Chat Bot](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_6)
+
+
+### Day  7: October, 18th, 2020:
+
+
+**Today's Progress**: i have corona virus and  i needed some break! but today i made a QRcode maker gui app Using Python
+
+**Thoughts:** NONE
+
+**Link to work:** [QRcode App](https://github.com/EXxZAM/100DaysOfCode/tree/master/%23Day_7)
